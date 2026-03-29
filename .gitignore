@@ -5,5 +5,11 @@
 *.exp
 *.pgm
 *.vol
+*.fw7vol
+*.csv
 *.dump
+.jj/
+fourwing7
+fourwing_parallel_*
+target/
 .vscode/
